@@ -1,3 +1,8 @@
+theme: jekyll-theme-cayman
+title: Welcome to NickolasDesign's Webpage
+description: Random Description
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/NickolasDesigns/NickolasDesigns.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
