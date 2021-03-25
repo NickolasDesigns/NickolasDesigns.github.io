@@ -3,8 +3,10 @@
 Content on this website can be maintained here: [editor on GitHub](https://github.com/NickolasDesigns/NickolasDesigns.github.io/edit/main/index.md)
 
 
-###This is where I found information on setting up this website
-[Github Pages](https://github.com/NickolasDesigns/NickolasDesigns.github.io/edit/main/index.md)
+
+### Setting up this Website
+
+This is where I found information on setting up this website [Github Pages](https://github.com/NickolasDesigns/NickolasDesigns.github.io/edit/main/index.md)
 
 
 
